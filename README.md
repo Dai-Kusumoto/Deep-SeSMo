@@ -23,7 +23,7 @@ To
 ## Note
 
 ## Author
-Dai Kusumoto (Department of Cardiology, Keio University Scool of Medicine)
+Dai Kusumoto (Department of Cardiology, Keio University School of Medicine)
 
 ## Licence
 GNU General Public License (GPL)
