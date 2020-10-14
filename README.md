@@ -4,7 +4,7 @@ Deep-SeSMo (Deep learning-based senescence scoring system by morphology) is a la
 
 ## Description
 
-Deep-SeSMo enable to make quantitative senescence score of cellular senescence only from microscopic phase-contrast images, and can be applied to high-throughput drug screening.
+Deep-SeSMo enable to make quantitative senescence score of cellular senescence only from microscopic phase-contrast images in cultured cells, and can be applied to high-throughput drug screening.
 
 ## Usage
 
