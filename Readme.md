@@ -53,5 +53,5 @@ d-kusumoto@keio.jp
 GNU General Public License (GPL)
 
 ## Reference
-
+Kusumoto D, Seki T, Sawada H, Kunitomi A, Katsuki T, Kimura M, Itoh S, Komuro J, Hashimoto H, Fukuda K, and Yuasa S. Anti-senescent drug screening by deep learning-based morphology senescence scoring. ***Nature Communications***. under revision. 
 
