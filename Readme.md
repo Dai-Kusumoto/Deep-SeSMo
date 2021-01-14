@@ -1,6 +1,6 @@
 # Deep-SeSMo
 
-This is a source code of the manuscript (Kusumoto D, et. al. ***Nature Communications***.in press).
+This is a source code of the manuscript (Kusumoto D, et. al. ***Nature Communications***. 12(1): 257, 2021.).
 
 Deep-SeSMo (Deep learning-based senescence scoring system by morphology) is a label-free quantitative scoring system based on a convolutional neural network (CNN) to evaluate the state of cellular senescence from microscopic phase-contrast images.
 
@@ -56,4 +56,4 @@ GNU General Public License (GPL)
 
 ## Reference
 
-Kusumoto D, Seki T, Sawada H, Kunitomi A, Katsuki T, Kimura M, Itoh S, Komuro J, Hashimoto H, Fukuda K, and Yuasa S. Anti-senescent drug screening by deep learning-based morphology senescence scoring. ***Nature Communications***. in press.
+Kusumoto D, Seki T, Sawada H, Kunitomi A, Katsuki T, Kimura M, Itoh S, Komuro J, Hashimoto H, Fukuda K, and Yuasa S. Anti-senescent drug screening by deep learning-based morphology senescence scoring. ***Nature Communications***. 12(1): 257, 2021.
